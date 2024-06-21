@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94d3e1e1-ef0c-4665-b591-a2953381382d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task49.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Divider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Multiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Subtractor.java" afterDir="false" />
-    </list>
+    <list default="true" id="94d3e1e1-ef0c-4665-b591-a2953381382d" name="Changes" comment="Fisrt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,9 +43,20 @@
       <option name="presentableId" value="Default" />
       <updated>1718903308877</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fisrt">
+      <option name="closed" value="true" />
+      <created>1718903951857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718903951857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fisrt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fisrt" />
   </component>
 </project>
